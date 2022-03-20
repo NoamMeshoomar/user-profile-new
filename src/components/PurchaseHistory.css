@@ -1,0 +1,46 @@
+.PurchaseHistory {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.PurchaseHistory .title {
+    margin-bottom: 20px;
+}
+
+.PurchaseHistory table {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.PurchaseHistory table thead {
+    border-radius: 5px;
+}
+.PurchaseHistory table thead tr {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 37px;
+    padding: 0 40px;
+}
+
+.PurchaseHistory table thead tr th {
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.PurchaseHistory table tbody tr {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    flex-direction: column;
+    border-bottom: 1px solid #898A8D;
+}
+
+.PurchaseHistory table tbody tr td {
+    margin: 20px;
+    color: #666666;
+    font-size: 14px;
+    font-weight: 500;
+}

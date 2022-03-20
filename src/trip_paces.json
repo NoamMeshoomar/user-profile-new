@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "title": "Leisurely",
+    "description": "Build in plenty of downtime, with more time at each place to soak everything in."
+  },
+  {
+    "id": 1,
+    "title": "Moderate",
+    "description": "A healthy mix of early and late starts, along with a balance of go-go-go and leisurely days."
+  },
+  {
+    "id": 2,
+    "title": "See-it-all",
+    "description": "Wake up early, go go go!"
+  }
+]

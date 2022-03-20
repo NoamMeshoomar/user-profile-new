@@ -1,0 +1,94 @@
+{
+  "0": {
+    "title": "Art",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/art.jpg"
+  },
+  "1": {
+    "title": "Shopping",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/shopping.jpg"
+  },
+  "2": {
+    "title": "Hidden Gems",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/hidden_gems.jpg"
+  },
+  "3": {
+    "title": "Historic Sites",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/historic_sites.jpg"
+  },
+  "4": {
+    "title": "Nightlife",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/nightlife.jpg"
+  },
+  "5": {
+    "title": "Beach",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/beach.jpg"
+  },
+  "6": {
+    "title": "Watersports",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/watersports.jpg"
+  },
+  "7": {
+    "title": "Architecture",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/architecture.jpg"
+  },
+  "8": {
+    "title": "Nature",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/nature.jpg"
+  },
+  "9": {
+    "title": "Museums",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/museums.jpg"
+  },
+  "11": {
+    "title": "Popular",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/popular.jpg"
+  },
+  "12": {
+    "title": "Walking & Biking",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/walking_biking.jpg"
+  },
+  "13": {
+    "title": "Urban Parks",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/urban_parks.jpg"
+  },
+  "14": {
+    "title": "Religion",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/religion.jpg"
+  },
+  "17": {
+    "title": "Culinary Experiences",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/cuisine.jpg"
+  },
+  "18": {
+    "title": "Amusements",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/amusements.jpg"
+  },
+  "19": {
+    "title": "Outdoor Activities",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/outdoor_activities.jpg"
+  },
+  "20": {
+    "title": "Culture",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/culture.jpg"
+  },
+  "22": {
+    "title": "Local Markets",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/local_markets.jpg"
+  },
+  "23": {
+    "title": "Street Food",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/street_food.jpg"
+  },
+  "24": {
+    "title": "Guided Tours",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/guided_tours.jpg"
+  },
+  "26": {
+    "title": "Music",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/music.jpg"
+  },
+  "27": {
+    "title": "Wellness and Wellbeing",
+    "img": "https://d3jpkt4rs20wfn.cloudfront.net/wellness_wellbeing.jpg"
+  }
+}
